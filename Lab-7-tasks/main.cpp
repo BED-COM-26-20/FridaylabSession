@@ -15,7 +15,7 @@ int main(){
     cin >> width;
     rectangle.setWidth(width);
 
-    cout << "Area of rectangle: "<< rectangle.calculateArea() << endl;
+    cout << "Area of rectangle is: "<< rectangle.calculateArea() << endl;
 
     return 0;
 
