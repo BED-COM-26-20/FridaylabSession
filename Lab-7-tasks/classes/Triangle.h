@@ -1,3 +1,4 @@
+#ifndef TRIANGLE_H
 #define TRIANGLE_H
 
 namespace shapes {
@@ -13,5 +14,5 @@ namespace shapes {
         ~Triangle(); // Destructor
     };
 }
-
+#endif
 

@@ -1,3 +1,4 @@
+#ifndef SQUARE_H
 #define SQUARE_H
 
 namespace shapes {
@@ -11,3 +12,4 @@ namespace shapes {
         ~Square(); // Destructor
     };
 }
+#endif
